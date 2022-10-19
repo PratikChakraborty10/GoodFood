@@ -19,11 +19,5 @@ Your one stop solution for all healty and trusted recipies
 <img src="https://user-images.githubusercontent.com/8813304/111885918-3da10680-89d3-11eb-821d-33319587db0c.png" width="17%"/>
 </p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/8813304/111886718-8d360100-89d8-11eb-8ec1-ea8b08ec623a.gif" width="15%"/>
-<img src="https://github.com/Elbehiry/Delish/blob/master/images/vid1.gif" width="15%"/>
-<img src="https://github.com/Elbehiry/Delish/blob/master/images/vid2.gif" width="15%"/>
-<img src="https://github.com/Elbehiry/Delish/blob/master/images/vid3.gif" width="15%"/>
-<img src="https://user-images.githubusercontent.com/8813304/127920672-a1c03b1d-321d-4ad5-aba9-897e7ea88354.gif" width="15%"/>
-</p>
+
 
