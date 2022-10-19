@@ -11,7 +11,7 @@ Your one stop solution for all healthy and trusted recipies
 <img src="https://user-images.githubusercontent.com/8813304/111877013-f3575f80-89a9-11eb-8ce2-4c020f849b05.png" width="17%"/>
 <img src="https://user-images.githubusercontent.com/8813304/111877016-f7837d00-89a9-11eb-9c9d-ca6296b054d3.png" width="17%"/>
 <img src="https://user-images.githubusercontent.com/8813304/111877066-2b5ea280-89aa-11eb-96b5-753c22771ec4.png" width="17%"/>
-<img src="https://user-images.githubusercontent.com/8813304/111885866-ffa3e280-89d2-11eb-91da-2828f6cfbc21.png" width="17%"/>
+<img src="https://i.ibb.co/zrjhNtC/Whats-App-Image-2022-10-20-at-00-09-37.jpg" width="17%"/>
 </p>
 
 <p align="center">
