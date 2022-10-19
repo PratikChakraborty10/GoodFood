@@ -2,7 +2,7 @@
 
 Your one stop solution for all healthy and trusted recipies 
 
-~Built with ❤️ Android Team @GDSC Sister Nivedita University
+~Built with ❤️ by Android Team @GDSC Sister Nivedita University
 
 
 
